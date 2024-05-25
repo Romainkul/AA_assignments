@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1716555609737,"sparkVersion":"3.5.0","uid":"VectorAssembler_b691ef719820","paramMap":{"outputCol":"features","inputCols":["posted_hour","numeric_features_scaled","source_text_w2v","title_w2v"]},"defaultParamMap":{"outputCol":"VectorAssembler_b691ef719820__output","handleInvalid":"error"}}
