@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.ImputerModel","timestamp":1716555589714,"sparkVersion":"3.5.0","uid":"Imputer_b750faa5c717","paramMap":{"outputCols":["comments_imputed","votes_imputed"],"strategy":"mean","inputCols":["comments","votes"]},"defaultParamMap":{"relativeError":0.001,"outputCol":"Imputer_b750faa5c717__output","strategy":"mean","missingValue":"NaN"}}
